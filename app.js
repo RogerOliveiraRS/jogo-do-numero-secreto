@@ -14,7 +14,7 @@ function exibirMensagemInicial() {
 
 
 
-    exibirTextoNaTela('p', 'Escolha um número entre 1 e 10');
+    exibirTextoNaTela('p', 'Escolha um número entre 1 e 200');
 
 }
 
